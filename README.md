@@ -28,5 +28,6 @@ On peut notifier des résultats progressifs si l'on augmente le nombre d'epochs 
 
 Le modèle U-NET est quant à lui décevant, avec un bruit uniformisé sur toutes les prédictions où l'on peut commencer à discerner les formes et couleurs, mais clairement loin derrière des modèles comme le VGG ou le ViT.
 
+Lien du U-NET et Pix2Pix à télécharger car trop gros pour passer dans le GitHub : https://we.tl/t-J99Zgiyw3i
 
 En prenant en compte tous les résultats, il devient clair que pour un besoin minime une configuration comme celle du Pix2Pix ou du CNN prend sens, mais avec une plus grande disponibilité des architectures comme celles du ViT et du VGG prendraient réellement sens et apporteraient un résultat bien plus concluant.
